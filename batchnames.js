@@ -1,12 +1,4 @@
 module.exports = [
-    /*
-    'Angelo Garcia',
-    'Brian Evardome Garcia',
-    'Christian Garcia',
-    'Eva Garcia',
-    'Jerome Garcia',
-    */
-    
     
     'Mary June Seneresl',               // #1
     'Sha Min',                          // #2
